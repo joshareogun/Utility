@@ -1,0 +1,22 @@
+{
+  "name": "Utility",
+  "version": "0.1.0",
+  "summary": "A short description of Utility.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/w4t3rw4lk3r/Utility",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "w4t3rw4lk3r": "jareogun@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/w4t3rw4lk3r/Utility.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Utility/Classes/**/*"
+}
