@@ -22,7 +22,7 @@ pod 'Utility'
 
 ## Author
 
-w4t3rw4lk3r, jareogun@gmail.com
+josh areogun
 
 ## License
 
